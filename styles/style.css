@@ -15,14 +15,24 @@ header {
 }
 
 h1 {
-    font-size: 60px;
+    font-size: 100px;
     text-align: center;
-    padding-top: 20px;
+    padding-top: 40px;
+    font-family: 'Covered By Your Grace', sans-serif;
+    color: #41292c;
 }
 
 h3 {
     text-align: center;
     margin-bottom: 20px;
+}
+
+h2,
+h3,
+p,
+a,
+span {
+    font-family: 'Raleway', sans-serif;
 }
 
 article h2 {
@@ -77,23 +87,23 @@ hr {
 }
 
 .green {
-    background-color: darkseagreen;
+    background-color: #9eb599;
 }
 
 .light {
-    background-color: sienna;
+    background-color: #683c2c;
 }
 
 .city {
-    background-color: saddlebrown;
+    background-color: #4c352d;
 }
 
 .vienna {
-    background-color: brown;
+    background-color: #352926;
 }
 
 .italian {
-    background-color: black;
+    background-color: #141212;
 }
 
 .country {
