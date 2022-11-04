@@ -34,6 +34,21 @@ article span {
     margin-bottom: 20px;
 }
 
+article a {
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    margin-bottom: 40px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+hr {
+    margin-bottom: 50px;
+    background-color: orange;
+}
+
 .roast {
     width: 70%;
     background-color: white;
@@ -79,4 +94,16 @@ article span {
 
 .italian {
     background-color: black;
+}
+
+.country {
+    color: orange;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+}
+
+.country-info {
+    color: gray;
+    margin-bottom: 20px;
+    line-height: 25px;
 }
